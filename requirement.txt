@@ -2,7 +2,6 @@ tensorflow==2.16.0
 pandas
 numpy
 scikit-Learn 
-tensorflow
 matplotlib
 streamlit
 scikit-learn
