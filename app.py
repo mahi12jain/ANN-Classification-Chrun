@@ -3,6 +3,7 @@ import numpy as np
 import tensorflow as tf
 import pandas as pd
 import pickle
+import sklearn
 
 # Load the trained model
 model = tf.keras.models.load_model('model_saved.h5')
